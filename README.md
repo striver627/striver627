@@ -1,4 +1,4 @@
-# Hi, I'm Harsh Raj Jha. I am currently working as a Salesforce Administrator.
+# Hi, I'm a human. I am currently working as a Salesforce Administrator.
 <!--
 **striver627/striver627** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
